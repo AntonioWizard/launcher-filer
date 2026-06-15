@@ -1,1 +1,13 @@
-[{"color":"FF0000","dopname":"","maxonline":500,"name":"Betta","online":36,"multiple":1,"ip":"192.168.0.126","port":7777}]
+[
+  {
+    "color": "FF0000",
+    "dopname": "",
+    "maxonline": 500,
+    "name": "Betta",
+    "online": 36,
+    "multiple": 1,
+    "ip": "192.168.0.126",
+    "port": 7777,
+    "cache_url": "https://www.dropbox.com/s/wrgrpkba3uium6ipqant5/Ukrain.zip?dl=1"
+  }
+]
